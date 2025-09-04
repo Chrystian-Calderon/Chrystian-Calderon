@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # ¡Hola, soy @Chrystian-Calderon! 👋
 
 Soy un apasionado de la programación con una fuerte creatividad, especialmente dedicado a la creación de contenido en TikTok centrado en videos de programación. Actualmente resido en Bolivia y estoy en constante aprendizaje de nuevas tecnologías para fortalecer mis habilidades.
